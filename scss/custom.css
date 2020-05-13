@@ -1,0 +1,51 @@
+body {
+  background: #f5d9d5;
+  font-family: "Nunito", sans-serif;
+}
+
+.navbar .navbar-brand {
+  font-weight: 100;
+  font-size: 1.5rem;
+}
+
+.navbar .nav-link {
+  font-weight: 100;
+  font-size: 1.5rem !important;
+}
+
+.navbar .nav-link:hover {
+  color: #EA1C2C !important;
+}
+
+#showcase #text-candy {
+  padding-top: 4rem;
+}
+
+#showcase #text-candy h1 {
+  font-weight: 100;
+  font-size: 4rem;
+}
+
+#showcase #text-candy span {
+  color: #EA1C2C !important;
+}
+
+#showcase img {
+  height: 100vh;
+  width: 50vw;
+}
+
+#showcase-new #text-candy {
+  padding-top: 4rem;
+}
+
+#showcase-new #text-candy h1 {
+  font-weight: 100;
+  font-size: 4rem;
+}
+
+#showcase-new #candy-photos img {
+  height: 100vh;
+  width: 50vw;
+}
+/*# sourceMappingURL=custom.css.map */
